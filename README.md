@@ -3,7 +3,7 @@ This project demonstrates how SQL can be used to analyze real-world e-commerce d
 
 Using SQL queries, the project analyzes revenue trends, customer behavior, product performance, and category-wise sales. It includes both basic and advanced SQL concepts such as joins, aggregations, grouping, filtering, subqueries, and window functions.
 
-🔍 Key Insights Covered
+## Key Insights Covered
 
 Total and monthly revenue analysis
 
@@ -15,7 +15,7 @@ Average order value and customer lifetime value
 
 Customer ranking using window functions
 
-🛠 Tools & Skills Used
+## Tools & Skills Used
 
 SQL (MySQL compatible)
 
@@ -29,7 +29,7 @@ GROUP BY & HAVING
 
 Window functions (RANK)
 
-📁 Project Structure
+## Project Structure
 
 Database schema creation
 
